@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Practica01</string>
+    <string name="sum">SUM</string>
+    <string name="res">RES</string>
+    <string name="mul">MUL</string>
+    <string name="div">DIV</string>
+    <string name="resultado">Resultado:</string>
+</resources>
